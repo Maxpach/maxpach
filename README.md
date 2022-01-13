@@ -14,9 +14,9 @@
   <img align="center" alt="max-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="max-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="max-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="max-sql" height="30" width="40" src="https://github.com/Maxpach/icons_perfil/blob/main/sqlserver.png">
-  <img align="center" alt="max-vba" height="30" width="40" src="https://github.com/Maxpach/icons_perfil/blob/main/vba.png">  
-  <img align="center" alt="max-php" height="30" width="40" src="https://github.com/Maxpach/icons_perfil/blob/main/php.png">
+  <img align="center" alt="max-sql" height="30" width="40" src="https://github.com/Maxpach/icons_perfil/blob/main/sqlserver.svg">
+  <img align="center" alt="max-vba" height="30" width="40" src="https://github.com/Maxpach/icons_perfil/blob/main/vba.svg">  
+  <img align="center" alt="max-php" height="30" width="40" src="https://github.com/Maxpach/icons_perfil/blob/main/php.svg">
   <img align="right" alt="max-pic" height="150" style="border-radius:50px;" src="https://camo.githubusercontent.com/4c8d92806e3c2322a2c390ffa0019c1d6f78a4d82108aa6946863ae362a763c8/68747470733a2f2f69322e77702e636f6d2f616c6c68746163636573732e696e666f2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f70726f6772616d6d696e672e6769663f6669743d313238312532433731362673736c3d31">
 </div>
   
