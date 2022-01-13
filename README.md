@@ -30,3 +30,5 @@
    ![Snake animation](https://github.com/maxpach/maxpach/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?username=maxpach&repo=maxpach&theme=react)](https://github.com/maxpach/maxpach)
