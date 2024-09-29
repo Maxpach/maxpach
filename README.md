@@ -1,8 +1,8 @@
-### Olá, sou o Leandro Maximiliano 👋
+### Olá, sou o Maxi 👋
 
-  Site - [Portifólio](https://maxiimiliano.vercel.app/)
+  Site Pessoal > CLIQUE AQUI > - [Portifólio](https://maxiimiliano.vercel.app/)
 
-- 🌱 Estudando Front-End
+- 🌱 Programador / Dev
 - 😄 Sempre estudando
 
 
@@ -34,6 +34,8 @@
  
 </div>
   
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=maxpach&repo=maxpach&theme=react)](https://github.com/maxpach/maxpach)
+ <h4>Leandro Maximiliano é um desenvolvedor e entusiasta no mundo da programação, desde 2016 que vem se interessando pela a área e por todo o mundo dev. Vem aprendendo a cada dia, com o intuito de melhorar o plano de negócio que lhe for apresentado para solucionar. Começou com automatização em processos operacionais a base de dados utilizando Python e MySql Server na Dataprev, uma empresa da previdência social do Brasil uma das maiores no segmento te tecnologia do país.
+
+Hoje busca desenvolver produtos, microserviços e integrações utizando tecnologia como ferramenta principal.</h4>
 
  ### Obrigado por ter lido!
